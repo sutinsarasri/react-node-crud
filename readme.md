@@ -1,10 +1,14 @@
+vite tool
+
 # install package
-root dir
+
+front-end root dir
+
 ```
 npm i
 ```
 
-server dir
+back end server dir
 
 ```
 npm i
